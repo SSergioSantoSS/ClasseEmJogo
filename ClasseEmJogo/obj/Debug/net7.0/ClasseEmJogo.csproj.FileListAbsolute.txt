@@ -1,0 +1,14 @@
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\bin\Debug\net7.0\ClasseEmJogo.exe
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\bin\Debug\net7.0\ClasseEmJogo.deps.json
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\bin\Debug\net7.0\ClasseEmJogo.runtimeconfig.json
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\bin\Debug\net7.0\ClasseEmJogo.dll
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\bin\Debug\net7.0\ClasseEmJogo.pdb
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.AssemblyInfoInputs.cache
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.AssemblyInfo.cs
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.dll
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\refint\ClasseEmJogo.dll
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.pdb
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ClasseEmJogo.genruntimeconfig.cache
+C:\Projetos\ProjVS\VS22\ClasseEmJogo\ClasseEmJogo\obj\Debug\net7.0\ref\ClasseEmJogo.dll
